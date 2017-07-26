@@ -9,25 +9,25 @@
 
 ### Bootstrap —— Fantasy Skeleton Bootstrap
 
-> *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap*
+> *Webpack* + *Bootstrap* + *jquery* + *Lodash*
 
 前往 [Fantasy Skeleton Bootstrap](https://github.com/Liuyl89/fantasy-skeleton-bootstrap)
 
 ### React —— Fantasy Skeleton React
 
-> *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap* + *React*
+> *React* + *Webpack* + *Bootstrap* + *jquery* + *Lodash*
 
 前往 [Fantasy Skeleton React](https://github.com/Liuyl89/fantasy-skeleton-react)
 
 ### Arcgis —— Fantasy Skeleton Arcgis
 
-> *Arcgis JavaScript API* + *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap* + *React*
+> *Arcgis JavaScript API* + *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *React*
 
 前往 [Fantasy Skeleton Arcgis](https://github.com/Liuyl89/fantasy-skeleton-arcgis)
 
 ### Leaflet —— Fantasy Skeleton Leaflet
 
-> *Leaflet* + *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap* + *React*
+> *Leaflet* + *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *React*
 
 前往 [Fantasy Skeleton Leaflet](https://github.com/Liuyl89/fantasy-skeleton-leaflet)
 
