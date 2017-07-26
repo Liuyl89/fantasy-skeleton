@@ -7,25 +7,25 @@
 
 <h2 align="center">基础网站骨架</h2>
 
-### Fantasy Skeleton Bootstrap
+### Bootstrap —— Fantasy Skeleton Bootstrap
 
 > *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap*
 
 前往 [Fantasy Skeleton Bootstrap](https://github.com/Liuyl89/fantasy-skeleton-bootstrap)
 
-### Fantasy Skeleton React
+### React —— Fantasy Skeleton React
 
 > *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap* + *React*
 
 前往 [Fantasy Skeleton React](https://github.com/Liuyl89/fantasy-skeleton-react)
 
-### Fantasy Skeleton Arcgis
+### Arcgis —— Fantasy Skeleton Arcgis
 
 > *Arcgis JavaScript API* + *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap* + *React*
 
 前往 [Fantasy Skeleton Arcgis](https://github.com/Liuyl89/fantasy-skeleton-arcgis)
 
-### Fantasy Skeleton Leaflet
+### Leaflet —— Fantasy Skeleton Leaflet
 
 > *Leaflet* + *Webpack* + *Bootstrap* + *jquery* + *Lodash* + *Bootstrap* + *React*
 
